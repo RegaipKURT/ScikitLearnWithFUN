@@ -10,7 +10,7 @@
 ##### Website: https://www.fun-mooc.fr/en/
 
 <ul>
-<li> <strong>JupyterNotebooks</strong> consists from my codes written in python. </li>
+<li> <strong>JupyterNotebooks</strong> consist from my codes written in python. </li>
 <li>You can find datasets used in Projects in <strong>Datasets</strong> folder.</li>
 <li>Some plots and graphs in projects created by an outsource python code written and represented in <strong>Figures.</strong> Please use these folder to find related fidure codes.</li>
 <li><strong>WrapUps</strong> contain end of session wrap ups.</li>
