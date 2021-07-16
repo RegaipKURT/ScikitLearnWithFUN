@@ -1,6 +1,6 @@
 # ScikitLearnWithFUN
 
-#### This repository contains my jupyter notebooks and works during the Python Scikit-Learn Course from Fun-Mooc given by Inria.
+#### This repository contains my jupyter notebooks during the Python Scikit-Learn Course from Fun-Mooc given by Inria.
 
 #### FUN: France Université Numérique. (Digital University of France)
 #### Inria: France National Institute for Research in Digital Science and Technology.
